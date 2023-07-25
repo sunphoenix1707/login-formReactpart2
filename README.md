@@ -8,5 +8,5 @@ Now if i want to store what user has written than i use hooks for that.
 In use state we can pass objects 
 Here i passed fname and name
 Whenever user type anything inputEvent will be called
-
+![Screenshot (260)](https://github.com/sunphoenix1707/login-formReactpart2/assets/114605699/bf2717a9-ed82-43bd-9440-798670ae8149)
 
